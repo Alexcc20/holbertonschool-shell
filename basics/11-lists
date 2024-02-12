@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la  -r /basics 
+ls -la . ./basics
